@@ -1,16 +1,16 @@
-# Trabalho Prático - Semana 7
-
-Nessa atividade, vamos dar os primeiros passos com JavaScript, praticando com a criação de variáveis, emprego de tipos básicos (string, number, boolean), operadores, além de fluxos de controle condicionais e estruturas de repetição (for e while).
+# Atividade Prática — JavaScript Básico
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- **Nome:** Arthur Moreira Figueiredo
+- **Matrícula:** 909477
 
-## Print do console do navegador
+## Sobre o projeto
 
-<<  COLOQUE A IMAGEM AQUI >>
+Simulador simples de orçamento pessoal desenvolvido em JavaScript puro. O script solicita nome, renda e despesas do usuário via `prompt()`, valida as entradas com `while`, lança as despesas com `for`, analisa o orçamento com `if/else` e exibe o resultado em `alert()` e `console.log()`.
 
+## Print do Console (resultado da execução)
 
+<< COLOQUE A IMAGEM AQUI >>
 
-(*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo reponsivo, escolha um celular qualquer e recarregue a página antes de tirar o print. 
+![Console](img/print-console.png)
